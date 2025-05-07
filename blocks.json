@@ -1,0 +1,16 @@
+{
+  "elements": [
+    {
+      "name": "element1",
+      "blocks": ["rec123456", "rec123457", "rec123458"]
+    },
+    {
+      "name": "element2",
+      "blocks": ["rec123459", "rec123460"]
+    },
+    {
+      "name": "element3",
+      "blocks": ["rec123461", "rec123462", "rec123463"]
+    }
+  ]
+}
