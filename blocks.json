@@ -2,15 +2,15 @@
   "elements": [
     {
       "name": "element1",
-      "blocks": ["rec978160936", "rec978161416"]
+      "blocks": ["#rec978160936", "#rec978161416"]
     },
     {
       "name": "element2",
-      "blocks": ["rec997226646", "rec997226651"]
+      "blocks": ["#rec997226646", "#rec997226651"]
     },
     {
       "name": "element3",
-      "blocks": ["rec1011275016"]
+      "blocks": ["#rec1011275016"]
     }
   ]
 }
