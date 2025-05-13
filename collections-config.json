@@ -1,0 +1,34 @@
+{
+  "collections": [
+    {
+      "title": "ВАННЫ",
+      "image": "https://static.tildacdn.com/tild3533-3762-4432-a362-313934333537/image.png",
+      "link": "/bathtubs"
+    },
+    {
+      "title": "РАКОВИНЫ",
+      "image": "https://static.tildacdn.com/tild3739-6330-4539-b137-396232363138/Home-Page-Category-B.jpg",
+      "link": "/washbasins"
+    },
+    {
+      "title": "NIAGARA",
+      "image": "https://static.tildacdn.com/tild3736-6162-4363-b237-366564623630/Home-Main-Banner-02.jpg",
+      "link": "/niagara"
+    },
+    {
+      "title": "CUBE-X",
+      "image": "https://static.tildacdn.com/tild3132-3835-4239-a564-626230323334/image.png",
+      "link": "/cubex"
+    },
+    {
+      "title": "SUPER-THIN",
+      "image": "https://static.tildacdn.com/tild6638-3335-4334-b666-633365376336/image.png",
+      "link": "/superthin"
+    },
+    {
+      "title": "CAPTOP",
+      "image": "https://static.tildacdn.com/tild6137-3263-4433-b566-323063663035/image.png",
+      "link": "/captop"
+    }
+  ]
+}
