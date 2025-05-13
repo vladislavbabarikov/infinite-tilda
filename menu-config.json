@@ -22,11 +22,11 @@
     },
     { "title": "VR", "link": "/vr" },
     { "title": "НОВОСТИ", "link": "/news" },
-    { "title": "КОНТАКТЫ", "link": "/contact" },
-    { "title": "ПОИСК", "link": "/search", "icon": "https://example.com/search-icon.svg" }
+    { "title": "КОНТАКТЫ", "link": "/contact" }
   ],
   "languages": [
     { "title": "РУССКИЙ", "link": "https://infinite-bath.ru/" },
     { "title": "ENGLISH", "link": "https://en.infinite-bath.ru/" }
-  ]
+  ],
+  "search": { "title": "ПОИСК", "link": "/search", "icon": "https://example.com/search-icon.svg" }
 }
