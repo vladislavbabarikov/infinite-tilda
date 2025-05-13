@@ -1,0 +1,31 @@
+{
+  "logoDefault": "https://static.tildacdn.com/tild3533-3064-4065-b566-336633313161/image.png",
+  "logoScrolled": "https://static.tildacdn.com/tild3536-6165-4362-a539-646636643432/image.png",
+  "menu": [
+    { "title": "ГЛАВНАЯ", "link": "/" },
+    { "title": "О НАС", "link": "/about" },
+    {
+      "title": "КАТАЛОГ",
+      "submenu": [
+        { "title": "ВАННЫ", "link": "/bathtubs" },
+        { "title": "РАКОВИНЫ", "link": "/washbasins" },
+        {
+          "title": "КОЛЛЕКЦИИ",
+          "submenu": [
+            { "title": "NIAGARA", "link": "/niagara" },
+            { "title": "CUBE-X", "link": "/cubex" },
+            { "title": "SUPER-THIN", "link": "/superthin" },
+            { "title": "CAPTOP", "link": "/captop" }
+          ]
+        }
+      ]
+    },
+    { "title": "VR", "link": "/vr" },
+    { "title": "НОВОСТИ", "link": "/news" },
+    { "title": "КОНТАКТЫ", "link": "/contact" }
+  ],
+  "languages": [
+    { "title": "РУССКИЙ", "link": "https://infinite-bath.ru/" },
+    { "title": "ENGLISH", "link": "https://en.infinite-bath.ru/" }
+  ]
+}
