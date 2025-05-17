@@ -55,7 +55,7 @@
 <script>
 (async () => {
 
-  const sliderType = '';
+  const sliderType = window.sliderType || '';
   const jsonUrl    = 'https://vladislavbabarikov.github.io/infinite-tilda/slider-config.json';
 
   let imgs = [];
