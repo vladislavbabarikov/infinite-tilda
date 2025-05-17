@@ -28,5 +28,5 @@
     { "title": "РУССКИЙ", "link": "https://infinite-bath.ru/" },
     { "title": "ENGLISH", "link": "https://en.infinite-bath.ru/" }
   ],
-  "search": { "title": "ПОИСК", "link": "/search", "icon": "https://static.tildacdn.com/tild3865-6565-4139-b437-303762353833/free-icon-font-searc.svg" }
+  "search": { "title": "ПОИСК", "link": "#search", "icon": "https://static.tildacdn.com/tild3865-6565-4139-b437-303762353833/free-icon-font-searc.svg" }
 }
