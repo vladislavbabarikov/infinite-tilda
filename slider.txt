@@ -55,7 +55,16 @@
 <script>
 (async () => {
 
-  const sliderType = window.sliderType || '';
+    let sliderType;
+  try {
+    sliderType = window.sliderType;
+    if (!sliderType) throw 'empty';
+  } catch(e) {
+    alert('Не задан window.sliderType — слайдер не будет показан');
+    document.getElementById('heroSlider').style.display = 'none';
+    return;
+  }
+
   const jsonUrl    = 'https://vladislavbabarikov.github.io/infinite-tilda/slider-config.json';
 
   let imgs = [];
