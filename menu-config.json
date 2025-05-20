@@ -7,6 +7,7 @@
     {
       "title": "КАТАЛОГ",
       "submenu": [
+        { "title": "ВЕСЬ КАТАЛОГ", "link": "/catalog" },
         { "title": "ВАННЫ", "link": "/bathtubs" },
         { "title": "РАКОВИНЫ", "link": "/washbasins" },
         {
