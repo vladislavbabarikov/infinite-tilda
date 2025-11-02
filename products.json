@@ -1,17 +1,96 @@
 {
   "products": [
     {
-      "sku": "1003364",
-      "title": "Ванна Niagara 170x75",
-      "photo": "https://www.infinite-bath.com/cdn/shop/products/1003364-4_4100x.jpg",
-      "category": "bathtubs",
-      "collection": "niagara",
+      "sku": "1030345",
+      "title": "Super Thin Edge 39L",
+      "photo": "https://static.tildacdn.com/tild3739-6639-4765-a636-623863616361/image.png",
+      "gallery": [
+        "https://static.tildacdn.com/tild3739-6639-4765-a636-623863616361/image.png",
+        "https://static.tildacdn.com/tild3066-3964-4236-b339-316433356434/image.png",
+        "https://static.tildacdn.com/tild3032-3362-4661-a263-373833656337/image.png",
+        "https://www.infinite-bath.com/cdn/shop/products/1030345_4100x.jpg"
+      ],
+      "category": "washbasins",
+      "collection": "superthin",
       "dimensions": {
-        "length": 170,
-        "width": 75,
-        "height": 60
+        "length": 390,
+        "width": 0,
+        "height": 110
       },
-      "seoDescription": "Элегантная ванна из коллекции Niagara. Современный дизайн и превосходное качество для вашей ванной комнаты.",
+      "seoDescription": "Круглая накладная раковина Super Thin Edge 39L диаметром 390 мм с ультратонким краем 6 мм. Современный дизайн, матовая поверхность, материал INFINITE Solid Surfaces. Идеально для стильной ванной комнаты.",
+      "links": {
+        "instruction": "",
+        "manual": "",
+        "model3d": ""
+      }
+    },
+    {
+      "sku": "1030210",
+      "title": "Super Thin Edge RS 40",
+      "photo": "https://www.infinite-bath.com/cdn/shop/products/1030210-02_4100x.jpg",
+      "gallery": [
+        "https://www.infinite-bath.com/cdn/shop/products/1030210-02_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1030210-01_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1030210_01_4100x.jpg"
+      ],
+      "category": "washbasins",
+      "collection": "superthin",
+      "dimensions": {
+        "length": 400,
+        "width": 400,
+        "height": 125
+      },
+      "seoDescription": "Круглая накладная раковина Super Thin Edge RS40 диаметром 400 мм с ультратонким краем 6 мм. Выполнена из матового Solid Surface. Элегантный дизайн для современной ванной комнаты.",
+      "links": {
+        "instruction": "",
+        "manual": "",
+        "model3d": ""
+      }
+    },
+    {
+      "sku": "1003496",
+      "title": "Super Thin Edge R 50",
+      "photo": "https://static.tildacdn.com/tild6433-3534-4331-a434-316366316265/image.png",
+      "gallery": [
+        "https://static.tildacdn.com/tild6433-3534-4331-a434-316366316265/image.png",
+        "https://static.tildacdn.com/tild3765-6639-4563-a434-623162653033/image.png",
+        "https://static.tildacdn.com/tild3438-6562-4261-a265-376163393930/image.png",
+        "https://static.tildacdn.com/tild3165-6466-4730-a339-626331316635/image.png",
+        "https://static.tildacdn.com/tild3437-3437-4030-a137-363032626333/image.png",
+        "https://static.tildacdn.com/tild3432-3337-4565-b364-646463656161/image.png",
+        "https://www.infinite-bath.com/cdn/shop/products/1003496-1_4100x.jpg"
+      ],
+      "category": "washbasins",
+      "collection": "superthin",
+      "dimensions": {
+        "length": 500,
+        "width": 350,
+        "height": 110
+      },
+      "seoDescription": "Круглая раковина Super Thin Edge R50 диаметром 500 мм с краем толщиной 6 мм. Современный дизайн, матовая поверхность, материал INFINITE Solid Surfaces. Идеальный выбор для стильной ванной.",
+      "links": {
+        "instruction": "",
+        "manual": "",
+        "model3d": ""
+      }
+    },
+    {
+      "sku": "1003500",
+      "title": "Super Thin Edge Laundry 39",
+      "photo": "https://www.infinite-bath.com/cdn/shop/products/1003500_01_4100x.jpg",
+      "gallery": [
+        "https://www.infinite-bath.com/cdn/shop/products/1003500_01_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003500_03_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003500_02_4100x.jpg"
+      ],
+      "category": "washbasins",
+      "collection": "superthin",
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 190
+      },
+      "seoDescription": "Раковина Super Thin Edge Laundry 39 — стильное решение для зоны стирки. Углублённая чаша, тонкий край 6 мм, материал INFINITE Solid Surfaces. Практичность и эстетика в одном.",
       "links": {
         "instruction": "",
         "manual": "",
@@ -20,16 +99,151 @@
     },
     {
       "sku": "1003401",
-      "title": "Ванна Captop 170x75",
+      "title": "Super Thin Edge 39",
       "photo": "https://static.tildacdn.com/tild6464-6261-4566-b135-393337333033/image.png",
-      "category": "bathtubs",
-      "collection": "captop",
+      "gallery": [
+        "https://static.tildacdn.com/tild6464-6261-4566-b135-393337333033/image.png",
+        "https://static.tildacdn.com/tild3238-3061-4561-b463-303830663335/image.png",
+        "https://static.tildacdn.com/tild3764-6363-4831-b137-346163646361/image.png",
+        "https://www.infinite-bath.com/cdn/shop/products/1003401_01_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003401-1005262-1_4100x.jpg"
+      ],
+      "category": "washbasins",
+      "collection": "superthin",
       "dimensions": {
-        "length": 170,
-        "width": 75,
-        "height": 60
+        "length": 0,
+        "width": 0,
+        "height": 110
       },
-      "seoDescription": "Современная ванна из коллекции Captop. Изысканный дизайн и высокое качество материалов.",
+      "seoDescription": "Круглая раковина Super Thin Edge 39 диаметром 390 мм с ультратонким краем 6 мм. Элегантный минималистичный дизайн, матовая поверхность, материал INFINITE Solid Surfaces.",
+      "links": {
+        "instruction": "",
+        "manual": "",
+        "model3d": ""
+      }
+    },
+    {
+      "sku": "1003497",
+      "title": "Super Thin Edge 40CL",
+      "photo": "https://static.tildacdn.com/tild3733-6164-4738-a335-316430623536/image.png",
+      "gallery": [
+        "https://static.tildacdn.com/tild3733-6164-4738-a335-316430623536/image.png",
+        "https://static.tildacdn.com/tild3464-3731-4061-a439-303866623963/image.png",
+        "https://static.tildacdn.com/tild6131-6665-4364-b030-303163356361/image.png",
+        "https://www.infinite-bath.com/cdn/shop/products/1003497-4_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003497-3_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003497-2_4100x.jpg"
+      ],
+      "category": "washbasins",
+      "collection": "superthin",
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 115
+      },
+      "seoDescription": "Круглая накладная раковина Super Thin Edge 40CL диаметром 400 мм с ультратонким краем 6 мм. Современный минималистичный дизайн, матовая поверхность, материал INFINITE Solid Surfaces.",
+      "links": {
+        "instruction": "",
+        "manual": "",
+        "model3d": ""
+      }
+    },
+    {
+      "sku": "1003499",
+      "title": "Super Thin Edge RR50",
+      "photo": "https://static.tildacdn.com/tild3037-3561-4864-a432-663663376661/image.png",
+      "gallery": [
+        "https://static.tildacdn.com/tild3037-3561-4864-a432-663663376661/image.png",
+        "https://static.tildacdn.com/tild3462-3535-4365-b465-636239326665/image.png",
+        "https://static.tildacdn.com/tild6365-6266-4633-a365-363766326465/image.png",
+        "https://www.infinite-bath.com/cdn/shop/products/1003499_01_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003499_03_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003499_02_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003499_Lightbrown_07_4100x.jpg"
+      ],
+      "category": "washbasins",
+      "collection": "superthin",
+      "dimensions": {
+        "length": 500,
+        "width": 350,
+        "height": 125
+      },
+      "seoDescription": "Современная прямоугольная раковина Super Thin Edge RR50 диаметром 500 мм с тонким краем 6 мм. Выполнена из INFINITE Solid Surfaces с матовой белой отделкой. Идеальный выбор для стильной ванной.",
+      "links": {
+        "instruction": "",
+        "manual": "",
+        "model3d": ""
+      }
+    },
+    {
+      "sku": "1003893",
+      "title": "Super Thin Edge 60",
+      "photo": "https://static.tildacdn.com/tild3863-6235-4136-a531-326637353137/image.png",
+      "gallery": [
+        "https://static.tildacdn.com/tild3863-6235-4136-a531-326637353137/image.png",
+        "https://static.tildacdn.com/tild6130-3462-4466-b434-333532303730/image.png",
+        "https://static.tildacdn.com/tild3561-6136-4339-b561-613734383561/image.png",
+        "https://www.infinite-bath.com/cdn/shop/products/1003893-3_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003893-2_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003893-4_4100x.jpg"
+      ],
+      "category": "washbasins",
+      "collection": "superthin",
+      "dimensions": {
+        "length": 600,
+        "width": 400,
+        "height": 145
+      },
+      "seoDescription": "Овальная раковина Super Thin Edge 60 размером 600×400 мм с тонким краем 6 мм. Элегантный минимализм, матовая поверхность, материал INFINITE Solid Surfaces. Идеально для современных интерьеров.",
+      "links": {
+        "instruction": "",
+        "manual": "",
+        "model3d": ""
+      }
+    },
+    {
+      "sku": "1003498",
+      "title": "Super Thin Edge E60",
+      "photo": "https://static.tildacdn.com/tild3535-3132-4236-b661-383631343938/image.png",
+      "gallery": [
+        "https://static.tildacdn.com/tild3535-3132-4236-b661-383631343938/image.png",
+        "https://static.tildacdn.com/tild3034-3935-4537-a463-663532346664/image.png",
+        "https://static.tildacdn.com/tild6636-6262-4534-a438-663538333832/image.png",
+        "https://www.infinite-bath.com/cdn/shop/products/1003498-4_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003498-2_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003498-3_4100x.jpg"
+      ],
+      "category": "washbasins",
+      "collection": "superthin",
+      "dimensions": {
+        "length": 600,
+        "width": 380,
+        "height": 135
+      },
+      "seoDescription": "Овальная накладная раковина Super Thin Edge E60 размером 600×380 мм с ультратонким краем 6 мм. Матовая поверхность, материал INFINITE Solid Surfaces. Элегантное решение для современной ванной.",
+      "links": {
+        "instruction": "",
+        "manual": "",
+        "model3d": ""
+      }
+    },
+    {
+      "sku": "1003894",
+      "title": "Super Thin Edge 60CL",
+      "photo": "https://www.infinite-bath.com/cdn/shop/products/1003894-3_4100x.jpg",
+      "gallery": [
+        "https://www.infinite-bath.com/cdn/shop/products/1003894-3_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003894-2_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003894-4_4100x.jpg"
+      ],
+      "category": "washbasins",
+      "collection": "superthin",
+      "dimensions": {
+        "length": 600,
+        "width": 350,
+        "height": 125
+      },
+      "seoDescription": "Овальная накладная раковина Super Thin Edge 60C диаметром 400 мм и высотой 600 мм. Ультратонкий край, современный дизайн, материал INFINITE Solid Surfaces. Эффектный акцент для интерьера ванной.",
       "links": {
         "instruction": "",
         "manual": "",
@@ -38,16 +252,24 @@
     },
     {
       "sku": "1003413",
-      "title": "Ванна Captop 160x70",
+      "title": "Captop 1.0",
       "photo": "https://www.infinite-bath.com/cdn/shop/products/1003413_4100x.jpg",
-      "category": "bathtubs",
+      "gallery": [
+        "https://www.infinite-bath.com/cdn/shop/products/1003413_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/CAPTOP__1_4_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003413-2_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003413-3_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003413-4_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003413-1_4100x.jpg"
+      ],
+      "category": "washbasins",
       "collection": "captop",
       "dimensions": {
-        "length": 160,
-        "width": 70,
-        "height": 58
+        "length": 700,
+        "width": 350,
+        "height": 140
       },
-      "seoDescription": "Компактная ванна Captop для небольших ванных комнат. Функциональность и элегантность.",
+      "seoDescription": "Круглая накладная раковина CAPTOP 1.0 с боковой площадкой для аксессуаров. Диаметр чаши 400 мм, материал INFINITE Solid Surfaces. Идеальна для современных интерьеров с акцентом на функциональность и стиль.",
       "links": {
         "instruction": "",
         "manual": "",
@@ -56,16 +278,22 @@
     },
     {
       "sku": "1003414",
-      "title": "Ванна Captop 180x80",
+      "title": "Captop 2.0",
       "photo": "https://www.infinite-bath.com/cdn/shop/products/CAPTOP__1_8_4100x.jpg",
-      "category": "bathtubs",
+      "gallery": [
+        "https://www.infinite-bath.com/cdn/shop/products/CAPTOP__1_8_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003414-1_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003414-3_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003414-2_4100x.jpg"
+      ],
+      "category": "washbasins",
       "collection": "captop",
       "dimensions": {
-        "length": 180,
-        "width": 80,
-        "height": 60
+        "length": 700,
+        "width": 0,
+        "height": 155
       },
-      "seoDescription": "Просторная ванна Captop увеличенного размера. Комфорт и стиль для вашей ванной.",
+      "seoDescription": "Раковина CAPTOP 2.0 с прямоугольной чашей и боковой платформой. Современный дизайн, матовая поверхность, материал INFINITE Solid Surfaces. Эстетика и функциональность в каждой детали.",
       "links": {
         "instruction": "",
         "manual": "",
@@ -74,16 +302,24 @@
     },
     {
       "sku": "1003415",
-      "title": "Ванна Captop 165x75",
+      "title": "Captop 3.0",
       "photo": "https://www.infinite-bath.com/cdn/shop/products/1003415_4100x.jpg",
-      "category": "bathtubs",
+      "gallery": [
+        "https://www.infinite-bath.com/cdn/shop/products/1003415_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/CAPTOP__1_11_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003415-1_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003415-2_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003415-4_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003415-3_4100x.jpg"
+      ],
+      "category": "washbasins",
       "collection": "captop",
       "dimensions": {
-        "length": 165,
-        "width": 75,
-        "height": 58
+        "length": 580,
+        "width": 0,
+        "height": 125
       },
-      "seoDescription": "Элегантная ванна из коллекции Captop. Идеальные пропорции для современной ванной.",
+      "seoDescription": "Настенная раковина CAPTOP 3.0 размером 580×370×125 мм. Чаша слева, рабочая поверхность справа, встроенный перелив и pop-up слив из Solid Surface. Матовая белая отделка INFINITE — стильное и функциональное решение для современной ванной.",
       "links": {
         "instruction": "",
         "manual": "",
@@ -92,16 +328,20 @@
     },
     {
       "sku": "1003416",
-      "title": "Ванна Niagara 175x80",
+      "title": "Captop 4.0",
       "photo": "https://www.infinite-bath.com/cdn/shop/products/1003416-3_4100x.jpg",
-      "category": "bathtubs",
-      "collection": "niagara",
+      "gallery": [
+        "https://www.infinite-bath.com/cdn/shop/products/1003416-3_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003416-2_4100x.jpg"
+      ],
+      "category": "washbasins",
+      "collection": "captop",
       "dimensions": {
-        "length": 175,
-        "width": 80,
-        "height": 60
+        "length": 490,
+        "width": 0,
+        "height": 155
       },
-      "seoDescription": "Роскошная ванна Niagara. Сочетание классики и современности.",
+      "seoDescription": "Круглая накладная раковина CAPTOP 4.0 размером 490×430×155 мм с чашей слева и встроенной площадкой для смесителя слева. Материал INFINITE Solid Surfaces, матовое белое покрытие, pop-up слив. Идеальное сочетание стиля и функциональности для современной ван",
       "links": {
         "instruction": "",
         "manual": "",
@@ -110,16 +350,21 @@
     },
     {
       "sku": "1003417",
-      "title": "Ванна Cube-x 170x75",
+      "title": "Captop 5.0",
       "photo": "https://www.infinite-bath.com/cdn/shop/products/1003417-4_4100x.jpg",
-      "category": "bathtubs",
-      "collection": "cubex",
+      "gallery": [
+        "https://www.infinite-bath.com/cdn/shop/products/1003417-4_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003417-3_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003417-2_4100x.jpg"
+      ],
+      "category": "washbasins",
+      "collection": "captop",
       "dimensions": {
-        "length": 170,
-        "width": 75,
-        "height": 58
+        "length": 600,
+        "width": 0,
+        "height": 200
       },
-      "seoDescription": "Стильная ванна Cube-x с четкими линиями. Минимализм и функциональность.",
+      "seoDescription": "Двойная накладная раковина CAPTOP 5.0 с двумя чашами и интегрированными боковыми полками. Материал INFINITE Solid Surfaces, матовая белая отделка. Идеальное решение для современной ванной.",
       "links": {
         "instruction": "",
         "manual": "",
@@ -128,16 +373,20 @@
     },
     {
       "sku": "1003418",
-      "title": "Ванна Cube-x 160x70",
+      "title": "Captop 6.0",
       "photo": "https://www.infinite-bath.com/cdn/shop/products/1003418-2_4100x.jpg",
-      "category": "bathtubs",
-      "collection": "cubex",
+      "gallery": [
+        "https://www.infinite-bath.com/cdn/shop/products/1003418-2_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003418-1_4100x.jpg"
+      ],
+      "category": "washbasins",
+      "collection": "captop",
       "dimensions": {
-        "length": 160,
-        "width": 70,
-        "height": 58
+        "length": 600,
+        "width": 0,
+        "height": 155
       },
-      "seoDescription": "Компактная ванна Cube-x с геометрическим дизайном. Отличное решение для небольших пространств.",
+      "seoDescription": "Овальная накладная раковина CAPTOP 6.0 размером 600×375×155 мм с чашей слева, рабочей полкой снизу справа и посадочной площадкой для смесителя посредине. Изготовлена из матового INFINITE Solid Surfaces с ультратонким краем. Идеальное решение для функциона",
       "links": {
         "instruction": "",
         "manual": "",
@@ -146,16 +395,21 @@
     },
     {
       "sku": "1003419",
-      "title": "Ванна Super-Thin 170x75",
+      "title": "Captop 7.0",
       "photo": "https://www.infinite-bath.com/cdn/shop/products/1003419-2_4100x.jpg",
-      "category": "bathtubs",
-      "collection": "superthin",
+      "gallery": [
+        "https://www.infinite-bath.com/cdn/shop/products/1003419-2_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003419-1_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003419-3_4100x.jpg"
+      ],
+      "category": "washbasins",
+      "collection": "captop",
       "dimensions": {
-        "length": 170,
-        "width": 75,
-        "height": 55
+        "length": 700,
+        "width": 0,
+        "height": 200
       },
-      "seoDescription": "Ультратонкая ванна Super-Thin. Революционный дизайн с минимальной толщиной бортов.",
+      "seoDescription": "Прямоугольная накладная раковина CAPTOP 7.0 размером 600×400×140 мм с интегрированной полкой. Материал INFINITE Solid Surfaces, матовая белая отделка. Функциональное решение для современных ванных комнат.",
       "links": {
         "instruction": "",
         "manual": "",
@@ -164,16 +418,694 @@
     },
     {
       "sku": "1003420",
-      "title": "Ванна Super-Thin 180x80",
+      "title": "Captop 8.0",
       "photo": "https://www.infinite-bath.com/cdn/shop/products/1003420_4100x.jpg",
-      "category": "bathtubs",
-      "collection": "superthin",
+      "gallery": [
+        "https://www.infinite-bath.com/cdn/shop/products/1003420_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003420-3_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003420-6_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003420-1_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003420-4_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003420-2_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003420-5_4100x.jpg"
+      ],
+      "category": "washbasins",
+      "collection": "captop",
       "dimensions": {
-        "length": 180,
-        "width": 80,
-        "height": 55
+        "length": 720,
+        "width": 0,
+        "height": 155
       },
-      "seoDescription": "Большая ванна Super-Thin для максимального комфорта. Инновационные технологии производства.",
+      "seoDescription": "Двойная накладная раковина CAPTOP 8.0 с встроенными полками для аксессуаров. Материал INFINITE Solid Surfaces, матовая белая отделка. Идеальное сочетание функциональности и современного дизайна для вашей ванной комнаты.",
+      "links": {
+        "instruction": "",
+        "manual": "",
+        "model3d": ""
+      }
+    },
+    {
+      "sku": "1006054",
+      "title": "Captop 8.1",
+      "photo": "https://www.infinite-bath.com/cdn/shop/products/INFINITE_Captop_8.1_Freestanding_Bathtub_02_4100x.jpg",
+      "gallery": [
+        "https://www.infinite-bath.com/cdn/shop/products/INFINITE_Captop_8.1_Freestanding_Bathtub_02_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/INFINITE_Captop_8.1_Freestanding_Bathtub_03_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/INFINITE_Captop_8.1_Freestanding_Bathtub_04_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/INFINITE_Captop_8.1_Freestanding_Bathtub_05_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/INFINITE_Captop_8.1_Freestanding_Bathtub_06_4100x.jpg"
+      ],
+      "category": "bathtubs",
+      "collection": "captop",
+      "dimensions": {
+        "length": 1630,
+        "width": 800,
+        "height": 530
+      },
+      "seoDescription": "Элегантная отдельно стоящая овальная ванна CAPTOP 8.1 размером 1630×800×530 мм из матового INFINITE Solid Surfaces. Встроенный перелив, pop-up слив, регулируемые ножки и деревянный ящик для упаковки. Идеальное решение для вашего спа-интерьера.",
+      "links": {
+        "instruction": "",
+        "manual": "",
+        "model3d": ""
+      }
+    },
+    {
+      "sku": "1003980",
+      "title": "Niagara Laundry RR 50",
+      "photo": "https://www.infinite-bath.com/cdn/shop/products/1003980-02_4100x.jpg",
+      "gallery": [
+        "https://www.infinite-bath.com/cdn/shop/products/1003980-02_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003980-01_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003980-03_4100x.jpg"
+      ],
+      "category": "washbasins",
+      "collection": "niagara",
+      "dimensions": {
+        "length": 500,
+        "width": 350,
+        "height": 300
+      },
+      "seoDescription": "Углублённая накладная раковина для стирки Niagara Laundry RR50 размером 500×350×H400 мм из INFINITE Solid Surfaces. Практичная и стильная: тонкий край, матовая поверхность и продуманная эргономика для прачечной и хозяйственных помещений.",
+      "links": {
+        "instruction": "",
+        "manual": "",
+        "model3d": ""
+      }
+    },
+    {
+      "sku": "1003979",
+      "title": "Niagara Laundry 40",
+      "photo": "https://www.infinite-bath.com/cdn/shop/products/1003979-02_4100x.jpg",
+      "gallery": [
+        "https://www.infinite-bath.com/cdn/shop/products/1003979-02_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003979-01_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003979-03_4100x.jpg"
+      ],
+      "category": "washbasins",
+      "collection": "niagara",
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 300
+      },
+      "seoDescription": "Накладная раковина для стирки Niagara Laundry 40 из INFINITE Solid Surfaces диаметром 400 мм и высотой 300 мм. Практичная утилитарная модель с pop-up сливом и губкой Magic Cleaning Sponge. Идеальна для прачечных и хозяйственных зон.",
+      "links": {
+        "instruction": "",
+        "manual": "",
+        "model3d": ""
+      }
+    },
+    {
+      "sku": "1006037",
+      "title": "Niagara (Oval) 148",
+      "photo": "https://www.infinite-bath.com/cdn/shop/products/INFINITE_Niagara_Oval_148_Freestanding_Bathtub_03_4100x.jpg",
+      "gallery": [
+        "https://www.infinite-bath.com/cdn/shop/products/INFINITE_Niagara_Oval_148_Freestanding_Bathtub_03_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/INFINITE_Niagara_Oval_148_Freestanding_Bathtub_04_4100x.jpg"
+      ],
+      "category": "bathtubs",
+      "collection": "niagara",
+      "dimensions": {
+        "length": 1480,
+        "width": 750,
+        "height": 530
+      },
+      "seoDescription": "Элегантная отдельно стоящая овальная ванна Niagara (Oval) 148 размером 1480×750×530 мм из материала INFINITE Solid Surfaces. Встроенный перелив, pop-up слив, регулируемые ножки и прочная упаковка в деревянный ящик. Идеальное решение для создания домашнего спа-интерьера.",
+      "links": {
+        "instruction": "",
+        "manual": "",
+        "model3d": ""
+      }
+    },
+    {
+      "sku": "1006036",
+      "title": "Niagara (Oval) 168",
+      "photo": "https://www.infinite-bath.com/cdn/shop/products/INFINITE_Niagara_Oval_168_Freestanding_Bathtub_02_4100x.jpg",
+      "gallery": [
+        "https://www.infinite-bath.com/cdn/shop/products/INFINITE_Niagara_Oval_168_Freestanding_Bathtub_02_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/INFINITE_Niagare_Oval_168_Freestanding_Bathtub_03_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/INFINITE_Niagara_Oval_168_Freestanding_Bathtub_04_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/INFINITE_Niagara_Oval_168_Freestanding_Bathtub_05_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/INFINITE_Niagara_Oval_168_Freestanding_Bathtub_06_4100x.jpg"
+      ],
+      "category": "bathtubs",
+      "collection": "niagara",
+      "dimensions": {
+        "length": 1780,
+        "width": 900,
+        "height": 680
+      },
+      "seoDescription": "Элегантная отдельно стоящая овальная ванна Niagara Oval 168 размером 1680×780×540 мм из INFINITE Solid Surfaces. Встроенный перелив, pop-up слив, регулируемые ножки и надежная деревянная упаковка. Идеально для домашнего спа и стильных интерьеров.",
+      "links": {
+        "instruction": "",
+        "manual": "",
+        "model3d": ""
+      }
+    },
+    {
+      "sku": "1006047",
+      "title": "Niagara (Rounded Rectangle) 118",
+      "photo": "https://www.infinite-bath.com/cdn/shop/products/INFINITE_Niagara_Rounded_Rectangle_118_Freestanding_Bathtub_4100x.jpg",
+      "gallery": [
+        "https://www.infinite-bath.com/cdn/shop/products/INFINITE_Niagara_Rounded_Rectangle_118_Freestanding_Bathtub_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/INFINITE_Niagara_Rounded_Rectangle_118_Freestanding_Bathtub_02_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/files/INFINITE_Niagara_Rounded_Rectangle_118_Freestanding_Bathtub_03_4100x.png"
+      ],
+      "category": "bathtubs",
+      "collection": "niagara",
+      "dimensions": {
+        "length": 1180,
+        "width": 650,
+        "height": 530
+      },
+      "seoDescription": "Элегантная отдельно стоящая ванна Niagara Rounded Rectangle 118 размером 1180×650×530 мм из INFINITE Solid Surfaces. Встроенный перелив, pop-up слив, регулируемые ножки и надёжная деревянная упаковка. Идеально для современного домашнего спа.",
+      "links": {
+        "instruction": "",
+        "manual": "",
+        "model3d": ""
+      }
+    },
+    {
+      "sku": "1006035",
+      "title": "Niagara (Rounded Rectangle) 148",
+      "photo": "https://www.infinite-bath.com/cdn/shop/products/INFINITE_Niagara_Rounded_Rectangle_148_Freestanding_Bathtub_02_4100x.jpg",
+      "gallery": [
+        "https://www.infinite-bath.com/cdn/shop/products/INFINITE_Niagara_Rounded_Rectangle_148_Freestanding_Bathtub_02_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/INFINITE_Niagara_Rounded_Rectangle_148_Freestanding_Bathtub_03_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/INFINITE_Niagara_Rounded_Rectangle_148_Freestanding_Bathtub_04_4100x.jpg"
+      ],
+      "category": "bathtubs",
+      "collection": "niagara",
+      "dimensions": {
+        "length": 1480,
+        "width": 750,
+        "height": 530
+      },
+      "seoDescription": "Элегантная отдельно стоящая ванна Niagara Rounded Rectangle 148 размером 1480×750×530 мм из INFINITE Solid Surfaces. Встроенный перелив, pop-up слив, регулируемые ножки и надёжная деревянная упаковка. Идеально для стильного домашнего спа.",
+      "links": {
+        "instruction": "",
+        "manual": "",
+        "model3d": ""
+      }
+    },
+    {
+      "sku": "1006034",
+      "title": "Niagara (Rounded Rectangle) 168",
+      "photo": "https://www.infinite-bath.com/cdn/shop/products/INFINITE_Niagara_Rounded_Rectangle_168_Freestanding_Bathtub_02_4100x.jpg",
+      "gallery": [
+        "https://www.infinite-bath.com/cdn/shop/products/INFINITE_Niagara_Rounded_Rectangle_168_Freestanding_Bathtub_02_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/INFINITE_Niagara_Rounded_Rectangle_168_Freestanding_Bathtub_03_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/INFINITE_Niagara_Rounded_Rectangle_168_Freestanding_Bathtub_04_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/INFINITE_Niagara_Rounded_Rectangle_168_Freestanding_Bathtub_05_4100x.jpg"
+      ],
+      "category": "bathtubs",
+      "collection": "niagara",
+      "dimensions": {
+        "length": 1680,
+        "width": 800,
+        "height": 530
+      },
+      "seoDescription": "Элегантная отдельно стоящая ванна Niagara Rounded Rectangle 168 размером 1680×780×540 мм из INFINITE Solid Surfaces. Встроенный перелив, pop-up слив, регулируемые ножки и надёжная упаковка. Идеальный выбор для создания домашнего спа.",
+      "links": {
+        "instruction": "",
+        "manual": "",
+        "model3d": ""
+      }
+    },
+    {
+      "sku": "1006033",
+      "title": "Niagara (Ellipse) 148",
+      "photo": "https://www.infinite-bath.com/cdn/shop/products/INFINITE_Niagara_Ellipse_148_Freestanding_Bathtub_02_4100x.jpg",
+      "gallery": [
+        "https://www.infinite-bath.com/cdn/shop/products/INFINITE_Niagara_Ellipse_148_Freestanding_Bathtub_02_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/INFINITE_Niagara_Ellipse_148_Freestanding_Bathtub_03_4100x.jpg"
+      ],
+      "category": "bathtubs",
+      "collection": "niagara",
+      "dimensions": {
+        "length": 1480,
+        "width": 750,
+        "height": 530
+      },
+      "seoDescription": "Элегантная отдельно стоящая эллиптическая ванна Niagara Ellipse 148 размером 1480×750×530 мм из INFINITE Solid Surfaces. Встроенный перелив, pop-up слив, регулируемые ножки и надёжная упаковка в деревянный ящик. Идеально для стильного домашнего спа.",
+      "links": {
+        "instruction": "",
+        "manual": "",
+        "model3d": ""
+      }
+    },
+    {
+      "sku": "1006032",
+      "title": "Niagara (Ellipse) 168",
+      "photo": "https://www.infinite-bath.com/cdn/shop/products/INFINITE_Niagara_Ellipse_168_Freestanding_Bathtub_02_4100x.jpg",
+      "gallery": [
+        "https://www.infinite-bath.com/cdn/shop/products/INFINITE_Niagara_Ellipse_168_Freestanding_Bathtub_02_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/INFINITE_Niagara_Ellipse_168_Freestanding_Bathtub_03_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/INFINITE_Niagara_Ellipse_168_Freestanding_Bathtub_04_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/INFINITE_Niagara_Ellipse_168_Freestanding_Bathtub_05_4100x.jpg"
+      ],
+      "category": "bathtubs",
+      "collection": "niagara",
+      "dimensions": {
+        "length": 1680,
+        "width": 800,
+        "height": 530
+      },
+      "seoDescription": "Отдельно стоящая эллиптическая ванна Niagara Ellipse 168 размером 168×800×530 мм из INFINITE Solid Surfaces. Встроенный перелив, pop-up слив, регулируемые ножки и надёжная деревянная упаковка. Идеальна для создания уютного домашнего спа.",
+      "links": {
+        "instruction": "",
+        "manual": "",
+        "model3d": ""
+      }
+    },
+    {
+      "sku": "1003976",
+      "title": "Niagara RR 60",
+      "photo": "https://www.infinite-bath.com/cdn/shop/products/1003976-04_4100x.jpg",
+      "gallery": [
+        "https://www.infinite-bath.com/cdn/shop/products/1003976-04_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003976-01_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003976-02_4100x.jpg"
+      ],
+      "category": "washbasins",
+      "collection": "niagara",
+      "dimensions": {
+        "length": 600,
+        "width": 400,
+        "height": 130
+      },
+      "seoDescription": "Элегантная накладная раковина Niagara Rounded Rectangle 60 размером 600×400×130 мм из INFINITE Solid Surfaces. Закруглённые углы, тонкий край 6 мм, матовая поверхность. Идеальное сочетание современного дизайна и практичности для вашей ванной комнаты.",
+      "links": {
+        "instruction": "",
+        "manual": "",
+        "model3d": ""
+      }
+    },
+    {
+      "sku": "1003977",
+      "title": "Niagara RR 40",
+      "photo": "https://www.infinite-bath.com/cdn/shop/products/1003977-04_4100x.jpg",
+      "gallery": [
+        "https://www.infinite-bath.com/cdn/shop/products/1003977-04_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003977-01_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003977-02_4100x.jpg"
+      ],
+      "category": "washbasins",
+      "collection": "niagara",
+      "dimensions": {
+        "length": 400,
+        "width": 400,
+        "height": 130
+      },
+      "seoDescription": "Накладная раковина Niagara Rounded Rectangle 40 размером 400×400×130 мм из INFINITE Solid Surfaces. Закруглённые углы, тонкий край 6 мм, pop-up слив и матовая поверхность. Идеально для стильной и функциональной ванной комнаты.",
+      "links": {
+        "instruction": "",
+        "manual": "",
+        "model3d": ""
+      }
+    },
+    {
+      "sku": "1003981",
+      "title": "Niagara 60",
+      "photo": "https://www.infinite-bath.com/cdn/shop/products/1003981_01_4100x.jpg",
+      "gallery": [
+        "https://www.infinite-bath.com/cdn/shop/products/1003981_01_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003981_02_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003981_03_4100x.jpg"
+      ],
+      "category": "washbasins",
+      "collection": "niagara",
+      "dimensions": {
+        "length": 600,
+        "width": 400,
+        "height": 130
+      },
+      "seoDescription": "Овальная накладная раковина Niagara 60 размером 600×400х130 мм из INFINITE Solid Surfaces. Ультратонкий край 6 мм, pop-up слив и матовая поверхность. Идеальное сочетание минимализма и практичности.",
+      "links": {
+        "instruction": "",
+        "manual": "",
+        "model3d": ""
+      }
+    },
+    {
+      "sku": "1003978",
+      "title": "Niagara 40",
+      "photo": "https://www.infinite-bath.com/cdn/shop/products/1003978-04_4100x.jpg",
+      "gallery": [
+        "https://www.infinite-bath.com/cdn/shop/products/1003978-04_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003978-02_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003978-01_4100x.jpg"
+      ],
+      "category": "washbasins",
+      "collection": "niagara",
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 130
+      },
+      "seoDescription": "Круглая накладная раковина Niagara 40 диаметром 400 мм и высотой 130 мм из INFINITE Solid Surfaces. Ультратонкий кант, pop-up слив и губка Magic Cleaning Sponge. Идеальный выбор для современной ванной.",
+      "links": {
+        "instruction": "",
+        "manual": "",
+        "model3d": ""
+      }
+    },
+    {
+      "sku": "1003960",
+      "title": "Niagara WM 40",
+      "photo": "https://www.infinite-bath.com/cdn/shop/products/1003960-02_4100x.jpg",
+      "gallery": [
+        "https://www.infinite-bath.com/cdn/shop/products/1003960-02_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003960-3_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003960-2_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003960-1_4100x.jpg"
+      ],
+      "category": "washbasins",
+      "collection": "niagara",
+      "dimensions": {
+        "length": 400,
+        "width": 400,
+        "height": 140
+      },
+      "seoDescription": "Настенная накладная раковина Niagara WM40 размером 400×400х140 мм из INFINITE Solid Surfaces. Ультратонкий кант, pop-up слив и губка Magic Cleaning Sponge. Практичное и стильное решение для современной ванной комнаты.",
+      "links": {
+        "instruction": "",
+        "manual": "",
+        "model3d": ""
+      }
+    },
+    {
+      "sku": "1003959",
+      "title": "Niagara WM 60",
+      "photo": "https://www.infinite-bath.com/cdn/shop/products/1003959-02_4100x.jpg",
+      "gallery": [
+        "https://www.infinite-bath.com/cdn/shop/products/1003959-02_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003959-04_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003959-3_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003959-2_4100x.jpg"
+      ],
+      "category": "washbasins",
+      "collection": "niagara",
+      "dimensions": {
+        "length": 400,
+        "width": 400,
+        "height": 140
+      },
+      "seoDescription": "Настенная накладная раковина Niagara WM60 диаметром 600 мм и высотой 140 мм из INFINITE Solid Surfaces. Ультратонкий кант, pop-up слив и губка Magic Cleaning Sponge. Практичное и стильное решение для современной ванной комнаты.",
+      "links": {
+        "instruction": "",
+        "manual": "",
+        "model3d": ""
+      }
+    },
+    {
+      "sku": "1003972",
+      "title": "Niagara WM 90R",
+      "photo": "https://www.infinite-bath.com/cdn/shop/products/1003972_01_4100x.jpg",
+      "gallery": [
+        "https://www.infinite-bath.com/cdn/shop/products/1003972_01_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003972_04_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003972_05_4100x.jpg"
+      ],
+      "category": "washbasins",
+      "collection": "niagara",
+      "dimensions": {
+        "length": 900,
+        "width": 400,
+        "height": 140
+      },
+      "seoDescription": "Настенная накладная раковина Niagara WM 90R из INFINITE Solid Surfaces размером 900х400х140 мм с тонким краем 6 мм, pop-up сливом и матовой поверхностью. Идеальное решение для просторных ванных комнат и общественных санузлов.",
+      "links": {
+        "instruction": "",
+        "manual": "",
+        "model3d": ""
+      }
+    },
+    {
+      "sku": "1003973",
+      "title": "Niagara WM 90L",
+      "photo": "https://www.infinite-bath.com/cdn/shop/products/1003973_01_4100x.jpg",
+      "gallery": [
+        "https://www.infinite-bath.com/cdn/shop/products/1003973_01_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003973-04_4100x.jpg"
+      ],
+      "category": "washbasins",
+      "collection": "niagara",
+      "dimensions": {
+        "length": 900,
+        "width": 400,
+        "height": 140
+      },
+      "seoDescription": "Прямоугольная настенная раковина Niagara WM90L размером 900×400×140 мм из INFINITE Solid Surfaces. Ультратонкий край 6 мм, pop-up слив и матовая белая поверхность. Элегантное и практичное решение для просторных ванных комнат.",
+      "links": {
+        "instruction": "",
+        "manual": "",
+        "model3d": ""
+      }
+    },
+    {
+      "sku": "1003974",
+      "title": "Niagara WM 120DB",
+      "photo": "https://www.infinite-bath.com/cdn/shop/products/1003974_01_4100x.jpg",
+      "gallery": [
+        "https://www.infinite-bath.com/cdn/shop/products/1003974_01_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003974_02_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003974_03_4100x.jpg"
+      ],
+      "category": "washbasins",
+      "collection": "niagara",
+      "dimensions": {
+        "length": 1200,
+        "width": 400,
+        "height": 140
+      },
+      "seoDescription": "Двойная настенная раковина Niagara WM120DB из INFINITE Solid Surfaces размером 1200×400×140 мм. Две чаши, ультратонкий край 6 мм, pop-up слив и матовая поверхность. Практичное и стильное решение для больших ванных комнат и общественных зон.",
+      "links": {
+        "instruction": "",
+        "manual": "",
+        "model3d": ""
+      }
+    },
+    {
+      "sku": "1003975",
+      "title": "Niagara WM 150DB",
+      "photo": "https://www.infinite-bath.com/cdn/shop/products/1003975-02_4100x.jpg",
+      "gallery": [
+        "https://www.infinite-bath.com/cdn/shop/products/1003975-02_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003975-04_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003975-01_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003975-03_4100x.jpg"
+      ],
+      "category": "washbasins",
+      "collection": "niagara",
+      "dimensions": {
+        "length": 1500,
+        "width": 400,
+        "height": 140
+      },
+      "seoDescription": "Двойная настенная раковина Niagara WM150DB из INFINITE Solid Surfaces размером 1500×400×140 мм. Две чаши, ультратонкий край 6 мм, pop-up слив и матовая поверхность. Идеальное решение для просторных ванных комнат и общественных зон.",
+      "links": {
+        "instruction": "",
+        "manual": "",
+        "model3d": ""
+      }
+    },
+    {
+      "sku": "1003364",
+      "title": "Pure WM 45 w/shelf",
+      "photo": "https://www.infinite-bath.com/cdn/shop/products/1003364-4_4100x.jpg",
+      "gallery": [
+        "https://www.infinite-bath.com/cdn/shop/products/1003364-4_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003364-3_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003364-2_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003364-1_4100x.jpg"
+      ],
+      "category": "washbasins",
+      "collection": "cubex",
+      "dimensions": {
+        "length": 450,
+        "width": 220,
+        "height": 380
+      },
+      "seoDescription": "Настенная узкая прямоугольная раковина Pure WM45 Shelf размером 450×220×380 мм из INFINITE Solid Surfaces. Интегрированная полка для аксессуаров, pop-up слив и матовая поверхность. Идеальное решение для компактных ванных комнат.",
+      "links": {
+        "instruction": "",
+        "manual": "",
+        "model3d": ""
+      }
+    },
+    {
+      "sku": "1003866",
+      "title": "Terra 50",
+      "photo": "https://www.infinite-bath.com/cdn/shop/products/1003866-2_4100x.jpg",
+      "gallery": [
+        "https://www.infinite-bath.com/cdn/shop/products/1003866-2_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003866-4_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1003866-1_4100x.jpg"
+      ],
+      "category": "washbasins",
+      "collection": "cubex",
+      "dimensions": {
+        "length": 500,
+        "width": 300,
+        "height": 110
+      },
+      "seoDescription": "Накладная раковина Terra 50 размером 500×300×110 мм из INFINITE Solid Surfaces. Прямоугольная форма, тонкий край 6 мм, pop-up слив и матовая поверхность. Идеальный выбор для современной ванной комнаты.",
+      "links": {
+        "instruction": "",
+        "manual": "",
+        "model3d": ""
+      }
+    },
+    {
+      "sku": "1031087",
+      "title": "CUBE-X 40",
+      "photo": "https://www.infinite-bath.com/cdn/shop/products/1031087-2_4100x.jpg",
+      "gallery": [
+        "https://www.infinite-bath.com/cdn/shop/products/1031087-2_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1031087-1_4100x.jpg"
+      ],
+      "category": "washbasins",
+      "collection": "cubex",
+      "dimensions": {
+        "length": 400,
+        "width": 250,
+        "height": 150
+      },
+      "seoDescription": "Прямоугольная накладная раковина CUBE-X 40 размером 400×250×150 мм из материала INFINITE Solid Surfaces. Лаконичный кубический дизайн, поп-ап слив и матовая поверхность. Идеально впишется в любой современный интерьер ванной.",
+      "links": {
+        "instruction": "",
+        "manual": "",
+        "model3d": ""
+      }
+    },
+    {
+      "sku": "1031063",
+      "title": "CUBE-X WM 60L",
+      "photo": "https://www.infinite-bath.com/cdn/shop/products/1031063-2-1_4100x.jpg",
+      "gallery": [
+        "https://www.infinite-bath.com/cdn/shop/products/1031063-2-1_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1031063-1_4100x.jpg"
+      ],
+      "category": "washbasins",
+      "collection": "cubex",
+      "dimensions": {
+        "length": 600,
+        "width": 450,
+        "height": 160
+      },
+      "seoDescription": "Настенная прямоугольная раковина CUBE-X WM 60L размером 600×450×160 мм из INFINITE Solid Surfaces. Чаша слева, открытая полка справа, pop-up слив и матовая поверхность. Кубический минимализм для современных ванных.",
+      "links": {
+        "instruction": "",
+        "manual": "",
+        "model3d": ""
+      }
+    },
+    {
+      "sku": "1031004",
+      "title": "CUBE-X WM 45",
+      "photo": "https://www.infinite-bath.com/cdn/shop/products/1031004-3_4100x.jpg",
+      "gallery": [
+        "https://www.infinite-bath.com/cdn/shop/products/1031004-3_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1031004-1_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1031004-2_4100x.jpg"
+      ],
+      "category": "washbasins",
+      "collection": "cubex",
+      "dimensions": {
+        "length": 450,
+        "width": 220,
+        "height": 150
+      },
+      "seoDescription": "Настенная узкая прямоугольная раковина CUBE-X WM 45 размером 450×220×150 мм из INFINITE Solid Surfaces. Интегрированная боковая полка, pop-up слив и матовая поверхность. Элегантное решение для компактных пространств.",
+      "links": {
+        "instruction": "",
+        "manual": "",
+        "model3d": ""
+      }
+    },
+    {
+      "sku": "1031058",
+      "title": "CUBE-X WM 60",
+      "photo": "https://www.infinite-bath.com/cdn/shop/products/1031058_4100x.jpg",
+      "gallery": [
+        "https://www.infinite-bath.com/cdn/shop/products/1031058_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1031058-1_4100x.jpg"
+      ],
+      "category": "washbasins",
+      "collection": "cubex",
+      "dimensions": {
+        "length": 600,
+        "width": 400,
+        "height": 160
+      },
+      "seoDescription": "Настенная прямоугольная раковина CUBE-X WM 60 из INFINITE Solid Surfaces размером 600×400×160 мм. Минималистичный кубический дизайн, pop-up слив и матовая поверхность. Идеально для современных ванных комнат.",
+      "links": {
+        "instruction": "",
+        "manual": "",
+        "model3d": ""
+      }
+    },
+    {
+      "sku": "1031017",
+      "title": "CUBE-X WM 50L w/Towel Bar",
+      "photo": "https://www.infinite-bath.com/cdn/shop/products/1031017-3_4100x.jpg",
+      "gallery": [
+        "https://www.infinite-bath.com/cdn/shop/products/1031017-3_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1031017-1_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1031017-2_4100x.jpg"
+      ],
+      "category": "washbasins",
+      "collection": "cubex",
+      "dimensions": {
+        "length": 500,
+        "width": 300,
+        "height": 200
+      },
+      "seoDescription": "Настенная прямоугольная раковина CUBE-X WM 50L размером 500×300×200 мм из INFINITE Solid Surfaces с интегрированным держателем для полотенец, pop-up сливом и матовой поверхностью. Функциональный кубический дизайн для современных ванных комнат.",
+      "links": {
+        "instruction": "",
+        "manual": "",
+        "model3d": ""
+      }
+    },
+    {
+      "sku": "1031069",
+      "title": "CUBE-X WM 120DB",
+      "photo": "https://www.infinite-bath.com/cdn/shop/products/1031069-3_4100x.jpg",
+      "gallery": [
+        "https://www.infinite-bath.com/cdn/shop/products/1031069-3_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1031069-4_4100x.jpg"
+      ],
+      "category": "washbasins",
+      "collection": "cubex",
+      "dimensions": {
+        "length": 1200,
+        "width": 450,
+        "height": 160
+      },
+      "seoDescription": "Двойная настенная раковина CUBE-X WM120DB из INFINITE Solid Surfaces размером 1200×450×160 мм. Две чаши, pop-up слив, матовая поверхность и минималистичный кубический дизайн — идеальное решение для больших ванных комнат и общественных зон.",
+      "links": {
+        "instruction": "",
+        "manual": "",
+        "model3d": ""
+      }
+    },
+    {
+      "sku": "1031009",
+      "title": "CUBE-X WM 60 w/Towel Bar &amp; Deck",
+      "photo": "https://www.infinite-bath.com/cdn/shop/products/1031009-1_4100x.jpg",
+      "gallery": [
+        "https://www.infinite-bath.com/cdn/shop/products/1031009-1_4100x.jpg",
+        "https://www.infinite-bath.com/cdn/shop/products/1031009-2_4100x.jpg"
+      ],
+      "category": "washbasins",
+      "collection": "cubex",
+      "dimensions": {
+        "length": 600,
+        "width": 300,
+        "height": 200
+      },
+      "seoDescription": "Настенная прямоугольная раковина CUBE-X WM 60 Towel Bar Deck размером 600×300×200 мм из INFINITE Solid Surfaces. Интегрированный держатель для полотенец в правой части, pop-up слив и матовая поверхность. Практичное и стильное решение для современных ванных комнат.",
       "links": {
         "instruction": "",
         "manual": "",
@@ -207,7 +1139,7 @@
     },
     {
       "id": "cubex",
-      "name": "Cube-x",
+      "name": "Cube-X",
       "slug": "cubex",
       "sliderKey": "cubex"
     },
