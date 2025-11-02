@@ -3,7 +3,7 @@
     {
       "sku": "1003364",
       "title": "Ванна Niagara 170x75",
-      "photo": "https://www.infinite-bath.com/cdn/shop/products/1003364-1_4100x.jpg",
+      "photo": "https://www.infinite-bath.com/cdn/shop/products/1003364-4_4100x.jpg",
       "category": "bathtubs",
       "collection": "niagara",
       "dimensions": {
@@ -12,40 +12,106 @@
         "height": 60
       },
       "seoDescription": "Элегантная ванна из коллекции Niagara. Современный дизайн и превосходное качество для вашей ванной комнаты.",
-      "sliderKey": "1003364"
+      "links": {
+        "instruction": "",
+        "manual": "",
+        "model3d": ""
+      }
     },
     {
-      "sku": "1003365",
-      "title": "Ванна Niagara 180x80",
-      "photo": "https://www.infinite-bath.com/cdn/shop/products/1003365-1_4100x.jpg",
+      "sku": "1003401",
+      "title": "Ванна Captop 170x75",
+      "photo": "https://static.tildacdn.com/tild6464-6261-4566-b135-393337333033/image.png",
       "category": "bathtubs",
-      "collection": "niagara",
+      "collection": "captop",
       "dimensions": {
-        "length": 180,
-        "width": 80,
+        "length": 170,
+        "width": 75,
         "height": 60
       },
-      "seoDescription": "Просторная ванна из коллекции Niagara увеличенного размера. Идеальное решение для просторных ванных комнат.",
-      "sliderKey": "1003365"
+      "seoDescription": "Современная ванна из коллекции Captop. Изысканный дизайн и высокое качество материалов.",
+      "links": {
+        "instruction": "",
+        "manual": "",
+        "model3d": ""
+      }
     },
     {
-      "sku": "1003366",
-      "title": "Ванна Cube-x 160x70",
-      "photo": "https://www.infinite-bath.com/cdn/shop/products/1003366-1_4100x.jpg",
+      "sku": "1003413",
+      "title": "Ванна Captop 160x70",
+      "photo": "https://www.infinite-bath.com/cdn/shop/products/1003413_4100x.jpg",
       "category": "bathtubs",
-      "collection": "cubex",
+      "collection": "captop",
       "dimensions": {
         "length": 160,
         "width": 70,
         "height": 58
       },
-      "seoDescription": "Компактная ванна из коллекции Cube-x. Геометрически выверенные формы и современный минимализм.",
-      "sliderKey": "1003366"
+      "seoDescription": "Компактная ванна Captop для небольших ванных комнат. Функциональность и элегантность.",
+      "links": {
+        "instruction": "",
+        "manual": "",
+        "model3d": ""
+      }
     },
     {
-      "sku": "1003367",
+      "sku": "1003414",
+      "title": "Ванна Captop 180x80",
+      "photo": "https://www.infinite-bath.com/cdn/shop/products/CAPTOP__1_8_4100x.jpg",
+      "category": "bathtubs",
+      "collection": "captop",
+      "dimensions": {
+        "length": 180,
+        "width": 80,
+        "height": 60
+      },
+      "seoDescription": "Просторная ванна Captop увеличенного размера. Комфорт и стиль для вашей ванной.",
+      "links": {
+        "instruction": "",
+        "manual": "",
+        "model3d": ""
+      }
+    },
+    {
+      "sku": "1003415",
+      "title": "Ванна Captop 165x75",
+      "photo": "https://www.infinite-bath.com/cdn/shop/products/1003415_4100x.jpg",
+      "category": "bathtubs",
+      "collection": "captop",
+      "dimensions": {
+        "length": 165,
+        "width": 75,
+        "height": 58
+      },
+      "seoDescription": "Элегантная ванна из коллекции Captop. Идеальные пропорции для современной ванной.",
+      "links": {
+        "instruction": "",
+        "manual": "",
+        "model3d": ""
+      }
+    },
+    {
+      "sku": "1003416",
+      "title": "Ванна Niagara 175x80",
+      "photo": "https://www.infinite-bath.com/cdn/shop/products/1003416-3_4100x.jpg",
+      "category": "bathtubs",
+      "collection": "niagara",
+      "dimensions": {
+        "length": 175,
+        "width": 80,
+        "height": 60
+      },
+      "seoDescription": "Роскошная ванна Niagara. Сочетание классики и современности.",
+      "links": {
+        "instruction": "",
+        "manual": "",
+        "model3d": ""
+      }
+    },
+    {
+      "sku": "1003417",
       "title": "Ванна Cube-x 170x75",
-      "photo": "https://www.infinite-bath.com/cdn/shop/products/1003367-1_4100x.jpg",
+      "photo": "https://www.infinite-bath.com/cdn/shop/products/1003417-4_4100x.jpg",
       "category": "bathtubs",
       "collection": "cubex",
       "dimensions": {
@@ -53,120 +119,66 @@
         "width": 75,
         "height": 58
       },
-      "seoDescription": "Стильная ванна Cube-x среднего размера. Лаконичный дизайн подчеркнет интерьер вашей ванной.",
-      "sliderKey": "1003367"
+      "seoDescription": "Стильная ванна Cube-x с четкими линиями. Минимализм и функциональность.",
+      "links": {
+        "instruction": "",
+        "manual": "",
+        "model3d": ""
+      }
     },
     {
-      "sku": "1003368",
-      "title": "Ванна Super-Thin 165x70",
-      "photo": "https://www.infinite-bath.com/cdn/shop/products/1003368-1_4100x.jpg",
+      "sku": "1003418",
+      "title": "Ванна Cube-x 160x70",
+      "photo": "https://www.infinite-bath.com/cdn/shop/products/1003418-2_4100x.jpg",
+      "category": "bathtubs",
+      "collection": "cubex",
+      "dimensions": {
+        "length": 160,
+        "width": 70,
+        "height": 58
+      },
+      "seoDescription": "Компактная ванна Cube-x с геометрическим дизайном. Отличное решение для небольших пространств.",
+      "links": {
+        "instruction": "",
+        "manual": "",
+        "model3d": ""
+      }
+    },
+    {
+      "sku": "1003419",
+      "title": "Ванна Super-Thin 170x75",
+      "photo": "https://www.infinite-bath.com/cdn/shop/products/1003419-2_4100x.jpg",
       "category": "bathtubs",
       "collection": "superthin",
       "dimensions": {
-        "length": 165,
-        "width": 70,
+        "length": 170,
+        "width": 75,
         "height": 55
       },
-      "seoDescription": "Ванна Super-Thin с ультратонкими бортами. Инновационная технология производства для максимального комфорта.",
-      "sliderKey": "1003368"
+      "seoDescription": "Ультратонкая ванна Super-Thin. Революционный дизайн с минимальной толщиной бортов.",
+      "links": {
+        "instruction": "",
+        "manual": "",
+        "model3d": ""
+      }
     },
     {
-      "sku": "1003369",
-      "title": "Ванна Super-Thin 175x80",
-      "photo": "https://www.infinite-bath.com/cdn/shop/products/1003369-1_4100x.jpg",
+      "sku": "1003420",
+      "title": "Ванна Super-Thin 180x80",
+      "photo": "https://www.infinite-bath.com/cdn/shop/products/1003420_4100x.jpg",
       "category": "bathtubs",
       "collection": "superthin",
       "dimensions": {
-        "length": 175,
+        "length": 180,
         "width": 80,
         "height": 55
       },
-      "seoDescription": "Увеличенная ванна из коллекции Super-Thin. Сочетание элегантности и функциональности.",
-      "sliderKey": "1003369"
-    },
-    {
-      "sku": "2001450",
-      "title": "Раковина Captop 60",
-      "photo": "https://www.infinite-bath.com/cdn/shop/products/2001450-1_4100x.jpg",
-      "category": "washbasins",
-      "collection": "captop",
-      "dimensions": {
-        "length": 60,
-        "width": 45,
-        "height": 15
-      },
-      "seoDescription": "Компактная раковина Captop. Идеальное решение для небольших ванных комнат с продуманным дизайном.",
-      "sliderKey": "2001450"
-    },
-    {
-      "sku": "2001451",
-      "title": "Раковина Captop 80",
-      "photo": "https://www.infinite-bath.com/cdn/shop/products/2001451-1_4100x.jpg",
-      "category": "washbasins",
-      "collection": "captop",
-      "dimensions": {
-        "length": 80,
-        "width": 50,
-        "height": 15
-      },
-      "seoDescription": "Элегантная раковина Captop среднего размера. Практичность и стиль в одном изделии.",
-      "sliderKey": "2001451"
-    },
-    {
-      "sku": "2001452",
-      "title": "Раковина Niagara 70",
-      "photo": "https://www.infinite-bath.com/cdn/shop/products/2001452-1_4100x.jpg",
-      "category": "washbasins",
-      "collection": "niagara",
-      "dimensions": {
-        "length": 70,
-        "width": 48,
-        "height": 16
-      },
-      "seoDescription": "Раковина из коллекции Niagara. Классический дизайн с современными технологиями производства.",
-      "sliderKey": "2001452"
-    },
-    {
-      "sku": "2001453",
-      "title": "Раковина Niagara 90",
-      "photo": "https://www.infinite-bath.com/cdn/shop/products/2001453-1_4100x.jpg",
-      "category": "washbasins",
-      "collection": "niagara",
-      "dimensions": {
-        "length": 90,
-        "width": 52,
-        "height": 16
-      },
-      "seoDescription": "Большая раковина Niagara для просторных ванных комнат. Максимальный комфорт использования.",
-      "sliderKey": "2001453"
-    },
-    {
-      "sku": "2001454",
-      "title": "Раковина Cube-x 65",
-      "photo": "https://www.infinite-bath.com/cdn/shop/products/2001454-1_4100x.jpg",
-      "category": "washbasins",
-      "collection": "cubex",
-      "dimensions": {
-        "length": 65,
-        "width": 46,
-        "height": 14
-      },
-      "seoDescription": "Минималистичная раковина Cube-x. Четкие геометрические формы и высокое качество исполнения.",
-      "sliderKey": "2001454"
-    },
-    {
-      "sku": "2001455",
-      "title": "Раковина Super-Thin 75",
-      "photo": "https://www.infinite-bath.com/cdn/shop/products/2001455-1_4100x.jpg",
-      "category": "washbasins",
-      "collection": "superthin",
-      "dimensions": {
-        "length": 75,
-        "width": 47,
-        "height": 12
-      },
-      "seoDescription": "Ультратонкая раковина Super-Thin. Инновационный дизайн с минимальной толщиной стенок.",
-      "sliderKey": "2001455"
+      "seoDescription": "Большая ванна Super-Thin для максимального комфорта. Инновационные технологии производства.",
+      "links": {
+        "instruction": "",
+        "manual": "",
+        "model3d": ""
+      }
     }
   ],
   "categories": [
